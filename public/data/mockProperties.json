@@ -1,0 +1,416 @@
+{
+  "rent": [
+    {
+      "id": 1,
+      "area": "Lekki Phase 1",
+      "type": "Apartment",
+      "rooms": 3,
+      "price": 5500000,
+      "sqft": 1850,
+      "amenities": ["Swimming Pool", "Gym", "24/7 Security"],
+      "builtYear": 2020
+    },
+    {
+      "id": 2,
+      "area": "Ikoyi",
+      "type": "Duplex",
+      "rooms": 4,
+      "price": 16000000,
+      "sqft": 3500,
+      "amenities": ["Cinema", "Garden", "BQ"],
+      "builtYear": 2018
+    },
+    {
+      "id": 3,
+      "area": "Victoria Island",
+      "type": "Apartment",
+      "rooms": 2,
+      "price": 6500000,
+      "sqft": 1400,
+      "amenities": ["Gym", "Security", "Pool"],
+      "builtYear": 2021
+    },
+    {
+      "id": 4,
+      "area": "Ikeja GRA",
+      "type": "Bungalow",
+      "rooms": 3,
+      "price": 4200000,
+      "sqft": 2000,
+      "amenities": ["Spacious Compound", "Gate House"],
+      "builtYear": 2015
+    },
+    {
+      "id": 5,
+      "area": "Yaba",
+      "type": "Apartment",
+      "rooms": 2,
+      "price": 1800000,
+      "sqft": 900,
+      "amenities": ["Clean Water", "Security"],
+      "builtYear": 2018
+    },
+    {
+      "id": 6,
+      "area": "Ajah",
+      "type": "Apartment",
+      "rooms": 3,
+      "price": 3200000,
+      "sqft": 1500,
+      "amenities": ["Security", "Gym"],
+      "builtYear": 2020
+    },
+    {
+      "id": 7,
+      "area": "Lekki Phase 1",
+      "type": "Duplex",
+      "rooms": 4,
+      "price": 7700000,
+      "sqft": 3000,
+      "amenities": ["Gym", "Pool", "24/7 Power"],
+      "builtYear": 2023
+    },
+    {
+      "id": 8,
+      "area": "Ikoyi",
+      "type": "Apartment",
+      "rooms": 3,
+      "price": 6000000,
+      "sqft": 1600,
+      "amenities": ["Cinema", "Garden"],
+      "builtYear": 2022
+    },
+    {
+      "id": 9,
+      "area": "Victoria Island",
+      "type": "Bungalow",
+      "rooms": 3,
+      "price": 4600000,
+      "sqft": 2200,
+      "amenities": ["Security", "Spacious Compound"],
+      "builtYear": 2019
+    },
+    {
+      "id": 10,
+      "area": "Ikeja GRA",
+      "type": "Apartment",
+      "rooms": 2,
+      "price": 2000000,
+      "sqft": 1000,
+      "amenities": ["Clean Water"],
+      "builtYear": 2021
+    },
+    {
+      "id": 11,
+      "area": "Yaba",
+      "type": "Duplex",
+      "rooms": 4,
+      "price": 5000000,
+      "sqft": 2500,
+      "amenities": ["Gym", "Security"],
+      "builtYear": 2024
+    },
+    {
+      "id": 12,
+      "area": "Ajah",
+      "type": "Bungalow",
+      "rooms": 3,
+      "price": 3500000,
+      "sqft": 1800,
+      "amenities": ["Garden", "Parking"],
+      "builtYear": 2020
+    },
+    {
+      "id": 13,
+      "area": "Magodo",
+      "type": "Terrace",
+      "rooms": 3,
+      "price": 3800000,
+      "sqft": 1700,
+      "amenities": ["Elevator", "Garden"],
+      "builtYear": 2017
+    },
+    {
+      "id": 14,
+      "area": "Surulere",
+      "type": "Self-Contain",
+      "rooms": 1,
+      "price": 1200000,
+      "sqft": 600,
+      "amenities": ["Clean Water"],
+      "builtYear": 2016
+    },
+    {
+      "id": 15,
+      "area": "Ikate",
+      "type": "Mini Flat",
+      "rooms": 2,
+      "price": 2800000,
+      "sqft": 1100,
+      "amenities": ["Inverter Backup"],
+      "builtYear": 2022
+    },
+    {
+      "id": 16,
+      "area": "Lekki Phase 1",
+      "type": "Penthouse",
+      "rooms": 5,
+      "price": 12000000,
+      "sqft": 3200,
+      "amenities": ["Rooftop Terrace", "Concierge", "24/7 Power"],
+      "builtYear": 2024
+    },
+    {
+      "id": 17,
+      "area": "Ikoyi",
+      "type": "Villa",
+      "rooms": 4,
+      "price": 14000000,
+      "sqft": 2800,
+      "amenities": ["Ocean View", "Private Jetty"],
+      "builtYear": 2019
+    },
+    {
+      "id": 18,
+      "area": "Victoria Island",
+      "type": "Terrace",
+      "rooms": 3,
+      "price": 5200000,
+      "sqft": 1900,
+      "amenities": ["Gym", "Elevator"],
+      "builtYear": 2021
+    },
+    {
+      "id": 19,
+      "area": "Ikeja GRA",
+      "type": "Self-Contain",
+      "rooms": 1,
+      "price": 1500000,
+      "sqft": 700,
+      "amenities": ["Security"],
+      "builtYear": 2014
+    },
+    {
+      "id": 20,
+      "area": "Yaba",
+      "type": "Mini Flat",
+      "rooms": 2,
+      "price": 2200000,
+      "sqft": 950,
+      "amenities": ["Garden"],
+      "builtYear": 2023
+    },
+    {
+      "id": 21,
+      "area": "Ajah",
+      "type": "Apartment",
+      "rooms": 3,
+      "price": 2900000,
+      "sqft": 1400,
+      "amenities": ["24/7 Security", "Clean Water"],
+      "builtYear": 2020
+    },
+    {
+      "id": 22,
+      "area": "Magodo",
+      "type": "Duplex",
+      "rooms": 4,
+      "price": 4500000,
+      "sqft": 2400,
+      "amenities": ["Parking", "Gate House"],
+      "builtYear": 2018
+    },
+    {
+      "id": 23,
+      "area": "Surulere",
+      "type": "Bungalow",
+      "rooms": 3,
+      "price": 3100000,
+      "sqft": 1600,
+      "amenities": ["Estate Generator"],
+      "builtYear": 2019
+    },
+    {
+      "id": 24,
+      "area": "Ikate",
+      "type": "Penthouse",
+      "rooms": 5,
+      "price": 9500000,
+      "sqft": 2900,
+      "amenities": ["City View", "Cinema"],
+      "builtYear": 2025
+    },
+    {
+      "id": 25,
+      "area": "Lekki Phase 1",
+      "type": "Villa",
+      "rooms": 4,
+      "price": 11000000,
+      "sqft": 3100,
+      "amenities": ["Swimming Pool", "Garden", "Concierge"],
+      "builtYear": 2022
+    }
+  ],
+  "buy": [
+    {
+      "id": 26,
+      "area": "Banana Island",
+      "type": "Villa",
+      "rooms": 5,
+      "price": 950000000,
+      "sqft": 7200,
+      "amenities": ["Private Jetty", "Swimming Pool", "Cinema"],
+      "builtYear": 2023
+    },
+    {
+      "id": 27,
+      "area": "Lekki Phase 1",
+      "type": "Duplex",
+      "rooms": 4,
+      "price": 195000000,
+      "sqft": 4000,
+      "amenities": ["Rooftop Terrace", "Cinema"],
+      "builtYear": 2018
+    },
+    {
+      "id": 28,
+      "area": "Ikoyi",
+      "type": "Penthouse",
+      "rooms": 4,
+      "price": 550000000,
+      "sqft": 4500,
+      "amenities": ["City View", "Gym", "Pool"],
+      "builtYear": 2023
+    },
+    {
+      "id": 29,
+      "area": "Magodo",
+      "type": "Duplex",
+      "rooms": 4,
+      "price": 135000000,
+      "sqft": 3400,
+      "amenities": ["BQ", "Garden"],
+      "builtYear": 2018
+    },
+    {
+      "id": 30,
+      "area": "Lekki Phase 1",
+      "type": "Detached Duplex",
+      "rooms": 5,
+      "price": 385000000,
+      "sqft": 5000,
+      "amenities": ["Pool", "Gym", "24/7 Security"],
+      "builtYear": 2024
+    },
+    {
+      "id": 31,
+      "area": "Ikoyi",
+      "type": "Villa",
+      "rooms": 6,
+      "price": 650000000,
+      "sqft": 6000,
+      "amenities": ["Ocean View", "Cinema"],
+      "builtYear": 2022
+    },
+    {
+      "id": 32,
+      "area": "Victoria Island",
+      "type": "Penthouse",
+      "rooms": 4,
+      "price": 605000000,
+      "sqft": 4800,
+      "amenities": ["City View", "Concierge"],
+      "builtYear": 2025
+    },
+    {
+      "id": 33,
+      "area": "Magodo",
+      "type": "Bungalow",
+      "rooms": 3,
+      "price": 150000000,
+      "sqft": 2800,
+      "amenities": ["Garden", "BQ"],
+      "builtYear": 2021
+    },
+    {
+      "id": 34,
+      "area": "Ikeja GRA",
+      "type": "Duplex",
+      "rooms": 4,
+      "price": 200000000,
+      "sqft": 3800,
+      "amenities": ["Security", "Elevator"],
+      "builtYear": 2023
+    },
+    {
+      "id": 35,
+      "area": "Banana Island",
+      "type": "Detached Duplex",
+      "rooms": 5,
+      "price": 1045000000,
+      "sqft": 8000,
+      "amenities": ["Private Jetty", "Swimming Pool"],
+      "builtYear": 2025
+    },
+    {
+      "id": 36,
+      "area": "Victoria Island",
+      "type": "Villa",
+      "rooms": 5,
+      "price": 720000000,
+      "sqft": 6500,
+      "amenities": ["Ocean View", "Gym", "Concierge"],
+      "builtYear": 2021
+    },
+    {
+      "id": 37,
+      "area": "Ajah",
+      "type": "Penthouse",
+      "rooms": 4,
+      "price": 280000000,
+      "sqft": 4200,
+      "amenities": ["Rooftop Terrace", "24/7 Power"],
+      "builtYear": 2024
+    },
+    {
+      "id": 38,
+      "area": "Yaba",
+      "type": "Duplex",
+      "rooms": 4,
+      "price": 95000000,
+      "sqft": 2600,
+      "amenities": ["Garden", "Security"],
+      "builtYear": 2019
+    },
+    {
+      "id": 39,
+      "area": "Surulere",
+      "type": "Terrace",
+      "rooms": 3,
+      "price": 85000000,
+      "sqft": 2100,
+      "amenities": ["Elevator", "Parking"],
+      "builtYear": 2020
+    },
+    {
+      "id": 40,
+      "area": "Ikate",
+      "type": "Apartment",
+      "rooms": 3,
+      "price": 145000000,
+      "sqft": 1900,
+      "amenities": ["City View", "Cinema"],
+      "builtYear": 2022
+    },
+    {
+      "id": 41,
+      "area": "Lekki Phase 1",
+      "type": "Bungalow",
+      "rooms": 3,
+      "price": 175000000,
+      "sqft": 3200,
+      "amenities": ["Garden", "Swimming Pool", "BQ"],
+      "builtYear": 2023
+    }
+  ]
+}
